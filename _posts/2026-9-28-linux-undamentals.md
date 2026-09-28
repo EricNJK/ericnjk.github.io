@@ -18,7 +18,7 @@ View this module on [HackTheBox Academy](https://academy.hackthebox.com/achievem
 ## todo
 - [ ] Publish full write-up
 
-## Challenges and how I resolverd them
+## Challenges and how I resolved them
 **grep** commands with my RegEx patterns did not extract all links from HTML content.
 The correct commands were retrieved from the Web.
 
@@ -27,8 +27,8 @@ A minor issue is present in HackTheBox academy – loss of internet connectivity
 This was solved by restarting my Windows host and my Kali virtual machine.
 
 ## Conclusion
-I am now more comfortable with searching for files in a Linux filesystem without a graphical interface. I also gained some experience with the process, service & network status monitoring tools.
+I am now more comfortable searching for files in a Linux filesystem without a graphical interface. I also gained some experience with the process, service & network status monitoring tools.
 
-I can also add scripts to run on startup e.g.; running **imwheel** to fix a mouse scroll bug in my VMware + Kali machine.
+I can also add scripts to run on startup e.g.; running [**imwheel**](https://wiki.archlinux.org/title/IMWheel) to fix a mouse scroll bug in my VMware + Kali machine.
 
 Understanding how the operating system is organized is required for a Security Analyst before trying to protect systems and information.
