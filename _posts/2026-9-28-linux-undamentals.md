@@ -1,8 +1,8 @@
 ---
 title: "HackTheBox - Linux Fundamentals"
 date: 2026-9-28
-categories: [Linux, Cybersecurity, OperatingSystems]
-tags: [terminal, bash, ssh]
+#categories: [Linux, Cybersecurity, OperatingSystems]
+#tags: [terminal, bash, ssh]
 ---
 
 ## Introduction
