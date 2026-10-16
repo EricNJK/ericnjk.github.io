@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Contacts
 icon: fas fa-envelope
-order: 4
+order: 3
 ---
 
 ### Connect with Me

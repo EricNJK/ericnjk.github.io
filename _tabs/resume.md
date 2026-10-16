@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Resume outline
 icon: fas fa-file-alt
-order: 5
+order: 2
 ---
 
 I am a motivated software developer trained in the field of Computer Technology, including hardware and networking.
@@ -37,7 +37,7 @@ My objective is to secure a responsible position in a team where I can implement
 - Built a custom authentication service featuring multi-user "Viewer Profiles" for shared household environments.
 - Managed text internationalization and localization supporting Portuguese and English regional users in Brazil.
 
-### **ICT Officer (Attachment)** | Brandworld Communications Limited
+### **ICT Officer Intern** | [BrandWorld Communications Limited](https://www.linkedin.com/company/brandworld-communications-ltd/about/)
 *Nairobi, Kenya* — *Sep 2019 – Dec 2019*
 - Handled deployment, maintenance, and basic troubleshooting of corporate software and physical computer hardware.
 - Supervised the local office infrastructure including the Branched VoIP system, wireless access points, and textile network printers.
